@@ -1,2 +1,1 @@
-# MEA
-N
+# MEAN
